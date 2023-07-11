@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-homcework-template/static/css/main.f1aba393.css",
+    "main.js": "/react-homcework-template/static/js/main.21df2246.js",
+    "index.html": "/react-homcework-template/index.html",
+    "main.f1aba393.css.map": "/react-homcework-template/static/css/main.f1aba393.css.map",
+    "main.21df2246.js.map": "/react-homcework-template/static/js/main.21df2246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1aba393.css",
+    "static/js/main.21df2246.js"
+  ]
+}
